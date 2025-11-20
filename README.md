@@ -116,7 +116,7 @@ With 3+ years of experience in frontend and backend development, I enjoy solving
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kyudorimj&show_icons=true&theme=tokyonight" alt="kyudorimj's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyudorimj&layout=compact&theme=tokyonight" alt="kyudorimj's Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight" alt="kyudorimj's Top Languages" height="165">
 </p>
 
 ---
