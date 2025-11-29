@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **MJ**  
+# 👋 Hi, I'm **MJ**
 
 🚀 **Web Developer | Angular, Node.js, Fullstack Enthusiast**  
 
@@ -115,8 +115,8 @@ With 3+ years of experience in frontend and backend development, I enjoy solving
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyudorimj&show_icons=true&theme=tokyonight" alt="kyudorimj's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyudorimj&layout=compact&theme=tokyonight" alt="kyudorimj's Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=CipherLeaf&show_icons=true&theme=tokyonight" alt="CipherLeaf's GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CipherLeaf&layout=compact&theme=tokyonight" alt="CipherLeaf's Top Languages" height="165">
 </p>
 
 ---
