@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **MJ**
 
 🚀 **Senior Web Developer | Angular, Vue.js & Node.js Specialist** <br />
-💼 [LinkedIn](https://www.linkedin.com/in/mj-caisip/)| mj.caisip.dev@proton.me
+💼 [LinkedIn](https://www.linkedin.com/in/mj-caisip/) | mj.caisip.dev@proton.me
 
 I am a Senior Web Developer currently developing enterprise-level features at **Accenture** and leading frontend development for a **greenfiled fitness platform**. With a focus on **Angular (v19+)** and **Vue/Nuxt 3**, I specialize in building high-performance, offline-first architectures and functional state management systems.
 
