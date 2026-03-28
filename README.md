@@ -115,8 +115,9 @@ With 3+ years of experience in frontend and backend development, I enjoy solving
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CipherLeaf&show_icons=true&theme=tokyonight" alt="CipherLeaf's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CipherLeaf&layout=compact&theme=tokyonight" alt="CipherLeaf's Top Languages" height="165">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=CipherLeaf&show_icons=true&theme=tokyonight" alt="CipherLeaf's GitHub stats" height="165"> -->
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=cipherleaf" alt="GitHub Streak" /></a>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CipherLeaf&layout=compact&theme=tokyonight" alt="CipherLeaf's Top Languages" height="165"> -->
 </p>
 
 ---
