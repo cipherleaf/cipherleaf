@@ -9,7 +9,7 @@ I am a Senior Web Developer currently developing enterprise-level features at **
 
 ## Current Focus
 
-* **Advanced Application Engineering** at **Accenture**: Architecting enterprise features and managing CI/CD pipelines via Azure DevOps.
+* **Advanced Application Engineering** at **Accenture**: Developing enterprise features and managing CI/CD pipelines via Azure DevOps.
 * **Lead Developer**: Directing the frontend architecture for a greenfield fitness platform using Nuxt 3 and Vue 3.
 * **Game Development**: Building a 2D retro-style survival adventure focusing on complex state logic and performance.
 
