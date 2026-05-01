@@ -23,7 +23,7 @@ I am a Senior Web Developer currently developing enterprise-level features at **
       <a href="https://angular.dev" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40" alt="Angular"/>
       </a>
-      <p>Angular (v19+)</p>
+      <p>Angular (v16+)</p>
     </td>
     <td align="center" width="160" height="80">
       <a href="https://vuejs.org/" target="_blank">
